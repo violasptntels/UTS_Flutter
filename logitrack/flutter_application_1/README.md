@@ -150,13 +150,6 @@ flutter pub get
 flutter run
 ```
 
-
----
-
-## 📋 Fitur & Pengerjaan Soal
-
-Aplikasi ini mencakup penyelesaian untuk **Soal 1 hingga Soal 5** dengan rincian sebagai berikut:
-
 | No | Soal | Deskripsi |
 |----|------|-----------|
 | 1 | **Desain UI Item Pengiriman** | Menggunakan widget `Card` dan `ListTile` untuk menampilkan informasi resi, penerima, dan status. |
