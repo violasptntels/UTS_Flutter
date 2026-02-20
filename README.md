@@ -127,7 +127,7 @@ Warna badge menyesuaikan status:
 ### 2. Halaman Dashboard — Daftar Pengiriman (Soal 1, 4 & 5)
 > Setelah login berhasil, aplikasi menampilkan daftar pengiriman yang diambil dari API. Setiap kartu menampilkan nomor resi, nama penerima, dan badge status berwarna.
 
-<img src="logitrack/flutter_application_1/docs/screenshots/docs/screenshots/dashboard_data.png" width="300"/>
+<img src="logitrack/flutter_application_1/docs/screenshots/dashboard_data.png" width="300"/>
 
 ---
 
