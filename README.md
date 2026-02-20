@@ -120,14 +120,14 @@ Warna badge menyesuaikan status:
 ### 1. Halaman Login — Validasi Form (Soal 3)
 > Saat tombol **Login** ditekan tanpa mengisi password, muncul pesan `"Password tidak boleh kosong"`. Tersedia juga tombol ikon mata untuk melihat/menyembunyikan password.
 
-<img src="docs/screenshots/login_page.png" width="300"/>
+<img src="logitrack/flutter_application_1/docs/screenshots/login_page.png" width="300"/>
 
 ---
 
 ### 2. Halaman Dashboard — Daftar Pengiriman (Soal 1, 4 & 5)
 > Setelah login berhasil, aplikasi menampilkan daftar pengiriman yang diambil dari API. Setiap kartu menampilkan nomor resi, nama penerima, dan badge status berwarna.
 
-<img src="docs/screenshots/dashboard_data.png" width="300"/>
+<img src="logitrack/flutter_application_1/docs/screenshots/docs/screenshots/dashboard_data.png" width="300"/>
 
 ---
 
