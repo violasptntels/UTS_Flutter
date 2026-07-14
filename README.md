@@ -1,6 +1,6 @@
-# LogiTrack - Aplikasi Monitoring Pengiriman (UTS Pemrograman IV)
+# LogiTrack - Aplikasi Monitoring Pengiriman 
 
-Aplikasi ini dibuat untuk memenuhi tugas **Asesmen Tengah Semester (UTS)** mata kuliah Pemrograman IV. Dibangun menggunakan **Flutter**, aplikasi ini mensimulasikan sistem pelacakan paket sederhana dengan fitur Login dan Dashboard pengiriman yang dinamis.
+Aplikasi ini Dibangun menggunakan **Flutter**, aplikasi ini mensimulasikan sistem pelacakan paket sederhana dengan fitur Login dan Dashboard pengiriman yang dinamis.
 
 ---
 
